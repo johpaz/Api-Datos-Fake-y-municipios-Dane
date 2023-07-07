@@ -42,6 +42,7 @@ const generatePosts = (ocupations) => {
     // Crear el post con solicitud
     const post = {
       id: id,
+      clientId: faker.random.uuid(), // Agregar clientId utilizando faker.random.uuid()
       title: randomTitle,
       image: faker.image.imageUrl(),
       content: content,
@@ -57,11 +58,11 @@ const generatePosts = (ocupations) => {
 const posts = generatePosts(ocupationsData.ocupations);
 
 // Guardar los posts en un archivo JSON
-const jsonData = JSON.stringify({postclient: posts}, null, 2);
+const jsonData = JSON.stringify({ postclient: posts }, null, 2);
 fs.writeFile('postsclient.json', jsonData, (error) => {
   if (error) {
     console.error('Error al escribir el archivo JSON:', error);
   } else {
-    console.log('Archivo JSON generado exitosamente: posts.json');
+    console.log('Archivo JSON generado exitosamente: postsclient.json');
   }
 });
