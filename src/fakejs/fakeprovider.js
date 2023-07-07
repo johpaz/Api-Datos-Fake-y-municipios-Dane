@@ -105,7 +105,7 @@ const generateProfesionales = async () => {
       phone: faker.phone.phoneNumber(),
     };
 
-    const randomCategorias = faker.random.arrayElements(categorias, faker.random.number({ min: 1, max: 2 }));
+    const randomCategorias = faker.random.arrayElements(categorias, faker.random.number({ min: 1, max: 1 }));
     randomCategorias.forEach(categoria => {
       profesional.categorias.push({
         id: categoria.idcategoria,
@@ -117,8 +117,7 @@ const generateProfesionales = async () => {
         profesional.profesiones.push({
           id: profesion.id,
           name: profesion.name,
-          description: profesion.description
-        });
+           });
 
         if (profesional.description !== '') {
           profesional.description += ', ';
