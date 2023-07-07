@@ -36,7 +36,7 @@ const generateImages = () => {
 const groupedImages = generateImages();
 
 // Guardar las imágenes agrupadas en un archivo JSON
-const jsonData = JSON.stringify(groupedImages, null, 2);
+const jsonData = JSON.stringify({imagesprovider:groupedImages}, null, 2);
 fs.writeFile('provider_images.json', jsonData, (error) => {
   if (error) {
     console.error('Error al escribir el archivo JSON:', error);
