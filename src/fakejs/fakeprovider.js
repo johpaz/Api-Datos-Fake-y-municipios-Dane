@@ -111,7 +111,7 @@ const generateProfesionales = async () => {
         nombre: categoria.nombre
       });
 
-      const randomProfesiones = faker.random.arrayElements(categoria.profesiones, faker.random.number({ min: 1, max: 3 }));
+      const randomProfesiones = faker.random.arrayElements(categoria.profesiones, faker.random.number({ min: 1, max: 2 }));
       randomProfesiones.forEach(profesion => {
         profesional.profesiones.push({
           id: profesion.id,
