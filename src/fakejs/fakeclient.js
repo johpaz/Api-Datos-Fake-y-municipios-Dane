@@ -41,9 +41,10 @@ const generateClients = () => {
       image: faker.image.imageUrl(),
       genre: faker.random.arrayElement(['male', 'female']),
       description: ClientNeeds[faker.random.number({ min: 0, max: ClientNeeds.length - 1 })],
-      rating: faker.datatype.number({ min: 0, max: 5 }),
+      rating: faker.datatype.number({ min: 2, max: 5 }),
       phone: faker.phone.phoneNumber(),
       ubicacion: faker.address.city(),
+      
     }
     clients.push(client);
   }
