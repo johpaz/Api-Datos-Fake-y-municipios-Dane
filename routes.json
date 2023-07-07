@@ -1,0 +1,4 @@
+{
+  "/api/profesionales/*": "/profesionales/$1",
+  "/api/posts/*": "/postclient/$1"
+}
