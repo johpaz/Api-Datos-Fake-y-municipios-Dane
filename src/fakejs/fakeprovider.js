@@ -4,6 +4,8 @@ const faker = require('faker/locale/es_MX');
 const generateProfesionales = async () => {
   const profesionales = [];
 
+  const imageUrls = require('../json/imagesp.json').images;
+
   const categorias = [
     {
       "idcategoria": 1,
@@ -92,7 +94,7 @@ const generateProfesionales = async () => {
       id: id,
       name: faker.name.findName(),
       email: faker.internet.email(),
-      image: faker.image.imageUrl(),
+      image: faker.random.arrayElement(imageUrls),
       genre: faker.random.arrayElement(['male', 'female']),
       years_exp: faker.datatype.number({ min: 1, max: 5 }).toString(),
       categorias: [],
