@@ -88,6 +88,9 @@ const generateProfesionales = async () => {
       ]
     }
   ];
+  const descripcionProfesiones = categorias.flatMap(categoria =>
+    categoria.profesiones.map(profesion => `Soy experto en ${profesion.description}`)
+  );
   
   for (let id = 1; id < 51; id++) {
     const profesional = {
@@ -96,8 +99,10 @@ const generateProfesionales = async () => {
       email: faker.internet.email(),
       image: faker.random.arrayElement(imageUrls),
       genre: faker.random.arrayElement(['male', 'female']),
+      descripcion: descripcionProfesiones.join(' '),
       years_exp: faker.datatype.number({ min: 1, max: 5 }).toString(),
       categorias: [],
+      descripcion: descripcionProfesiones.join(' '),
       profesiones: [],
       rating: faker.datatype.number({ min: 1, max: 5 }),
       ubicacion: faker.address.city(),
@@ -116,7 +121,7 @@ const generateProfesionales = async () => {
         profesional.profesiones.push({
           id: profesion.id,
           name: profesion.name,
-          description: profesion.description
+    
         });
       });
     });
