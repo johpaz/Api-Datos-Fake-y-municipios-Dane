@@ -2,6 +2,7 @@ const faker = require('faker/locale/es_MX');
 const fs = require('fs');
 
 const generateClients = () => {
+  const imageUrls = require('../json/imagesc.json').images;
   const clients = [];
 
   const ClientNeeds = [
@@ -38,7 +39,7 @@ const generateClients = () => {
       id: id,
       name: faker.name.findName(),
       email: faker.internet.email(),
-      image: faker.image.imageUrl(),
+      image: faker.random.arrayElement(imageUrls),
       genre: faker.random.arrayElement(['male', 'female']),
       description: ClientNeeds[faker.random.number({ min: 0, max: ClientNeeds.length - 1 })],
       rating: faker.datatype.number({ min: 2, max: 5 }),
