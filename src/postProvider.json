@@ -1,0 +1,126 @@
+{
+    "postprovider": [
+      {
+        "id": 1,
+        "title": "Programador Web Freelance",
+        "content": "Ofrezco servicios de desarrollo web freelance. Experiencia en HTML, CSS, JavaScript y frameworks populares como React y Vue.js.",
+        "image": "http://placeimg.com/640/480/tech"
+      },
+      {
+        "id": 2,
+        "title": "Diseñador Gráfico Freelance",
+        "content": "Especializado en diseño gráfico, ofrezco servicios de creación de logotipos, banners, tarjetas de presentación y más. ¡Contáctame para discutir tu proyecto!",
+        "image": "http://placeimg.com/640/480/design"
+      },
+      {
+        "id": 3,
+        "title": "Traductor Freelance",
+        "content": "Servicios de traducción en varios idiomas. Traducción de documentos, sitios web y contenido multimedia. Precisión y calidad garantizadas.",
+        "image": "http://placeimg.com/640/480/translation"
+      },
+      {
+        "id": 4,
+        "title": "Redactor de Contenidos Freelance",
+        "content": "Experiencia en redacción de artículos, blogs, descripciones de productos y más. Ofrezco contenido de calidad adaptado a tus necesidades.",
+        "image": "http://placeimg.com/640/480/writing"
+      },
+      {
+        "id": 5,
+        "title": "Experto en Marketing Digital Freelance",
+        "content": "Servicios de marketing digital para aumentar la visibilidad y el alcance de tu negocio. Estrategias de SEO, gestión de redes sociales y publicidad en línea.",
+        "image": "http://placeimg.com/640/480/marketing"
+      },
+      {
+        "id": 6,
+        "title": "Fotógrafo Freelance",
+        "content": "Capturo momentos especiales y creando recuerdos duraderos. Sesiones fotográficas para bodas, eventos, retratos y más.",
+        "image": "http://placeimg.com/640/480/photography"
+      },
+      {
+        "id": 7,
+        "title": "Asistente Virtual Freelance",
+        "content": "Asistencia administrativa y organizativa en línea. Manejo de correos electrónicos, gestión de calendarios y tareas administrativas.",
+        "image": "http://placeimg.com/640/480/virtualassistant"
+      },
+      {
+        "id": 8,
+        "title": "Consultor de Negocios Freelance",
+        "content": "Análisis y asesoramiento empresarial para optimizar procesos, aumentar la eficiencia y mejorar la rentabilidad. Consultoría personalizada para tu negocio.",
+        "image": "http://placeimg.com/640/480/business"
+      },
+      {
+        "id": 9,
+        "title": "Contador Freelance",
+        "content": "Servicios de contabilidad y asesoramiento financiero para pequeñas empresas y emprendedores. Manejo de impuestos, estados financieros y más.",
+        "image": "http://placeimg.com/640/480/accounting"
+      },
+      {
+        "id": 10,
+        "title": "Desarrollador de Apps Móviles Freelance",
+        "content": "Creación de aplicaciones móviles personalizadas para iOS y Android. Experiencia en desarrollo nativo y frameworks como React Native.",
+        "image": "http://placeimg.com/640/480/mobileapp"
+      },
+      {
+            "id": 11,
+            "title": "Diseñador de Interiores Freelance",
+            "content": "Especializado en diseño de interiores para hogares y espacios comerciales. Transformo tus ideas en ambientes funcionales y estéticamente atractivos.",
+            "image": "http://placeimg.com/640/480/interiordesign"
+          },
+          {
+            "id": 12,
+            "title": "Desarrollador de Videojuegos Freelance",
+            "content": "Creación de videojuegos para diversas plataformas. Programación, diseño de niveles, gráficos y sonido para una experiencia de juego única.",
+            "image": "http://placeimg.com/640/480/gamedevelopment"
+          },
+          {
+            "id": 13,
+            "title": "Nutricionista Freelance",
+            "content": "Asesoramiento nutricional personalizado y planes de alimentación saludables. Ayudo a mis clientes a alcanzar sus objetivos de salud y bienestar.",
+            "image": "http://placeimg.com/640/480/nutrition"
+          },
+          {
+            "id": 14,
+            "title": "Entrenador Personal Freelance",
+            "content": "Entrenamientos personalizados adaptados a tus metas y necesidades. Te ayudo a lograr una mejor condición física y alcanzar tus objetivos de bienestar.",
+            "image": "http://placeimg.com/640/480/personaltrainer"
+          },
+          {
+            "id": 15,
+            "title": "Instructor de Yoga Freelance",
+            "content": "Clases de yoga en línea o presenciales para todos los niveles. Mejora tu flexibilidad, fuerza y bienestar general a través de la práctica del yoga.",
+            "image": "http://placeimg.com/640/480/yoga"
+          },
+          {
+            "id": 16,
+            "title": "Editor de Video Freelance",
+            "content": "Edición profesional de videos para proyectos personales o comerciales. Ajustes de color, cortes precisos y efectos visuales para lograr un resultado impactante.",
+            "image": "http://placeimg.com/640/480/videoediting"
+          },
+          {
+            "id": 17,
+            "title": "Diseñador de Moda Freelance",
+            "content": "Creación de diseños de moda únicos y a medida. Diseño de prendas, ilustraciones y asesoramiento en tendencias para marcas y diseñadores independientes.",
+            "image": "http://placeimg.com/640/480/fashiondesign"
+          },
+          {
+            "id": 18,
+            "title": "Instructor de Fitness Freelance",
+            "content": "Clases de fitness y entrenamientos personalizados para ayudarte a mantenerte en forma y alcanzar tus objetivos de salud. Motivación y apoyo garantizados.",
+            "image": "http://placeimg.com/640/480/fitness"
+          },
+          {
+            "id": 19,
+            "title": "Consultor SEO Freelance",
+            "content": "Optimización de motores de búsqueda para mejorar la visibilidad en línea de tu sitio web. Estrategias de SEO, análisis de palabras clave y más.",
+            "image": "http://placeimg.com/640/480/seo"
+          },
+          {
+            "id": 20,
+            "title": "Escritor de Contenido Técnico Freelance",
+            "content": "Redacción de contenido técnico y especializado. Artículos, manuales, guías y documentación técnica para empresas y profesionales del sector.",
+            "image": "http://placeimg.com/640/480/technicalwriting"
+          }
+        ]
+      }
+      
+  

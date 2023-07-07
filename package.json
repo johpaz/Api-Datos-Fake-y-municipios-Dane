@@ -4,7 +4,7 @@
   "description": "Api Profinder",
   "main": "index.js",
   "scripts": {
-    "server": "json-server --watch profinder.json --port 3003",
+    "server": "json-server --watch https://github.com/<johpaz>/<ApiProfinder>/raw/<master>/profinder.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",

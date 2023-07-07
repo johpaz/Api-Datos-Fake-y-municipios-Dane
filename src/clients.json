@@ -1,0 +1,165 @@
+{
+    "clients": [
+      {
+        "name": "John Smith",
+        "email": "john.smith@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente en busca de servicios freelance de calidad",
+        "rating": 0
+      },
+      {
+        "name": "Emily Johnson",
+        "email": "emily.johnson@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente interesado en proyectos creativos y originales",
+        "rating": 0
+      },
+      {
+        "name": "Michael Davis",
+        "email": "michael.davis@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente en busca de soluciones tecnológicas innovadoras",
+        "rating": 0
+      },
+      {
+        "name": "Jessica Brown",
+        "email": "jessica.brown@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente que necesita servicios de diseño gráfico",
+        "rating": 0
+      },
+      {
+        "name": "David Johnson",
+        "email": "david.johnson@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente buscando asesoramiento financiero",
+        "rating": 0
+      },
+      {
+        "name": "Sarah Wilson",
+        "email": "sarah.wilson@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente interesada en servicios de marketing digital",
+        "rating": 0
+      },
+      {
+        "name": "Robert Taylor",
+        "email": "robert.taylor@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente en busca de desarrollo web",
+        "rating": 0
+      },
+      {
+        "name": "Jennifer Martinez",
+        "email": "jennifer.martinez@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente que necesita servicios de traducción",
+        "rating": 0
+      },
+      {
+        "name": "Matthew Clark",
+        "email": "matthew.clark@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente en busca de servicios de consultoría empresarial",
+        "rating": 0
+      },
+      {
+        "name": "Sophia Turner",
+        "email": "sophia.turner@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente interesada en servicios de redacción de contenido",
+        "rating": 0
+      },
+      {
+        "name": "Daniel Rodriguez",
+        "email": "daniel.rodriguez@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente buscando servicios de fotografía",
+        "rating": 0
+      },
+      {
+        "name": "Olivia Walker",
+        "email": "olivia.walker@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente en busca de servicios de diseño de logotipos",
+        "rating": 0
+      },
+      {
+        "name": "Christopher Green",
+        "email": "christopher.green@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente interesado en servicios de edición de video",
+        "rating": 0
+      },
+      {
+        "name": "Ava Hill",
+        "email": "ava.hill@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente buscando servicios de desarrollo de aplicaciones móviles",
+        "rating": 0
+      },
+      {
+        "name": "Andrew Turner",
+        "email": "andrew.turner@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente en busca de servicios de diseño de sitios web",
+        "rating": 0
+      },
+      {
+        "name": "Mia Adams",
+        "email": "mia.adams@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente interesada en servicios de gestión de redes sociales",
+        "rating": 0
+      },
+      {
+        "name": "Ethan Cooper",
+        "email": "ethan.cooper@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente buscando servicios de consultoría de marketing",
+        "rating": 0
+      },
+      {
+        "name": "Isabella Reed",
+        "email": "isabella.reed@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente en busca de servicios de optimización de motores de búsqueda",
+        "rating": 0
+      },
+      {
+        "name": "William Baker",
+        "email": "william.baker@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "male",
+        "description": "Cliente interesado en servicios de diseño de folletos",
+        "rating": 0
+      },
+      {
+        "name": "Chloe Gray",
+        "email": "chloe.gray@example.com",
+        "image": "http://placeimg.com/640/480/people",
+        "genre": "female",
+        "description": "Cliente buscando servicios de diseño de tarjetas de presentación",
+        "rating": 0
+      }
+    ]
+  }
+  
