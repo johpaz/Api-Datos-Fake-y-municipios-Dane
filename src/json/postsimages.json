@@ -1,61 +1,6 @@
 {
   "postImages": [
-    {
-      "id": 1,
-      "profesionalId": "1",
-      "title": "Ofreciendo el servicio: Ingeniero de software",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFex7ONA6aUzbDxljdbjEQvR0Olmq8LMEP0g&usqp=CAU",
-      "content": "Ofrezco mis servicios como Ingeniero de software para resolver problemas complejos."
-    },
-    {
-      "id": 2,
-      "profesionalId": "2",
-      "title": "Ofreciendo el servicio: Entrenador personal",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuuLEnlke8oxxiq_dRd9rkZjj6PndVL9-zaA&usqp=CAU",
-      "content": "Ofrezco mis servicios como Entrenador personal para completar proyectos desafiantes."
-    },
-    {
-      "id": 3,
-      "profesionalId": "3",
-      "title": "Ofreciendo el servicio: Joyería artesanal",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffFWJDvQVecYx-DAyYQZ0ZEKZyfHVz19lyg&usqp=CAU",
-      "content": "Ofrezco mis servicios como Joyería artesanal para resolver problemas complejos."
-    },
-    {
-      "id": 4,
-      "profesionalId": "4",
-      "title": "Ofreciendo el servicio: Elaboración de velas",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosOuHKSFGiyJk8mItA_HWAQSWtCtshVI9KA&usqp=CAU",
-      "content": "Ofrezco mis servicios en Elaboración de velas para colaborar en proyectos innovadores."
-    },
-    {
-      "id": 5,
-      "profesionalId": "5",
-      "title": "Ofreciendo el servicio: Diseñador de moda",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOt48qYndbLFjmrlylopjfA9bLOBLkLIKgQ&usqp=CAU",
-      "content": "Ofrezco mis servicios como Diseñador de moda para resolver problemas complejos."
-    },
-    {
-      "id": 6,
-      "profesionalId": "6",
-      "title": "Ofreciendo el servicio: Consultor de transformación digital",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUCrRYiLyjGcqMhRKmT7U4pnmq7KfRU-OUHg&usqp=CAU",
-      "content": "Ofrezco mis servicios como Consultor de transformación digital para brindar asesoramiento experto."
-    },
-    {
-      "id": 7,
-      "profesionalId": "7",
-      "title": "Ofreciendo el servicio: Consejero financiero",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ38UWswmLGvoSAasNsaEfPrrldikW_PYfvoA&usqp=CAU",
-      "content": "Ofrezco mis servicios como Consejero financiero para realizar tareas específicas."
-    },
-    {
-      "id": 8,
-      "profesionalId": "8",
-      "title": "Ofreciendo el servicio: Especialista en marketing digital",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDhNNoCw1pd-7jlAovEYweQ9_Y2TrElAFN4A&usqp=CAU",
-      "content": "Ofrezco mis servicios como Especialista en marketing digital para completar proyectos desafiantes."
-    },
+   
         {
           "id": 9,
           "profesionalId": "9",
