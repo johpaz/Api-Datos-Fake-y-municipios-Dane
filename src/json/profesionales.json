@@ -29,7 +29,7 @@
       "name": "Sr. Jay Montemayor",
       "email": "Cristobal.Xenia@corpfolder.com",
       "image": "https://randomuser.me/api/portraits/men/33.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "1",
       "description": "Creador de logotipos y marcas gráficas",
       "categorias": [
@@ -109,7 +109,7 @@
       "name": "Sta. Maryann Vázquez",
       "email": "Ramiro_Rico96@hotmail.com",
       "image": "https://randomuser.me/api/portraits/men/5.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "2",
       "description": "Creador de diseños de moda y prendas de vestir, Diseñador de escenarios para teatro, cine y televisión",
       "categorias": [
@@ -245,7 +245,7 @@
       "name": "Deborah Carbajal",
       "email": "Maximiliano.Matos@corpfolder.com",
       "image": "https://randomuser.me/api/portraits/women/34.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "2",
       "description": "Especialista en asesoramiento financiero y gestión de finanzas, Experto en desarrollo de estrategias empresariales",
       "categorias": [
@@ -273,7 +273,7 @@
       "name": "Wendy Elizondo",
       "email": "Rosario_Mendoza94@hotmail.com",
       "image": "https://randomuser.me/api/portraits/women/10.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "1",
       "description": "Profesional en diseño y confección de prendas a medida, Creador de pasteles y postres",
       "categorias": [
@@ -301,7 +301,7 @@
       "name": "Nick Toro",
       "email": "Mauricio26@nearbpo.com",
       "image": "https://randomuser.me/api/portraits/women/34.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "3",
       "description": "Creador de diseños de moda y prendas de vestir, Creador de diseños y planos de interiores de espacios",
       "categorias": [
@@ -329,7 +329,7 @@
       "name": "Jimmy Coronado",
       "email": "Abraham.Tamayo99@yahoo.com",
       "image": "https://randomuser.me/api/portraits/women/24.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "4",
       "description": "Encargado de gestionar las redes sociales de una marca o empresa, Profesional en terapia y tratamiento de problemas emocionales y mentales",
       "categorias": [
@@ -357,7 +357,7 @@
       "name": "Sonia Toro",
       "email": "Octavio71@corpfolder.com",
       "image": "https://randomuser.me/api/portraits/women/30.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "4",
       "description": "Especialista en gestión de recursos humanos y desarrollo organizacional",
       "categorias": [
@@ -381,7 +381,7 @@
       "name": "Kelly Morales",
       "email": "Alberto_Rico@yahoo.com",
       "image": "https://randomuser.me/api/portraits/men/3.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "5",
       "description": "Experto en desarrollo y mantenimiento de software, Encargado de la administración y mantenimiento de sistemas informáticos",
       "categorias": [
@@ -489,7 +489,7 @@
       "name": "Rebecca Gamez",
       "email": "Isabel.Laboy@hotmail.com",
       "image": "https://randomuser.me/api/portraits/women/48.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "2",
       "description": "Profesional de la fotografía, Diseñador de escenarios para teatro, cine y televisión",
       "categorias": [
@@ -673,7 +673,7 @@
       "name": "Devin Alanis",
       "email": "JosLuis.Botello@corpfolder.com",
       "image": "https://randomuser.me/api/portraits/women/6.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "5",
       "description": "Experto en el arte del origami, plegado de papel",
       "categorias": [
@@ -773,7 +773,7 @@
       "name": "Archie Valverde",
       "email": "Ignacio_Medina@yahoo.com",
       "image": "https://randomuser.me/api/portraits/women/50.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "1",
       "description": "Artista que crea ilustraciones y dibujos, Profesional de la fotografía",
       "categorias": [
@@ -801,7 +801,7 @@
       "name": "Taylor Chavarría",
       "email": "Pablo.Agosto@gmail.com",
       "image": "https://randomuser.me/api/portraits/women/30.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "2",
       "description": "Creador de logotipos y marcas gráficas",
       "categorias": [
@@ -825,7 +825,7 @@
       "name": "Lula Acuña",
       "email": "Luisngel_Colunga@nearbpo.com",
       "image": "https://randomuser.me/api/portraits/men/27.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "5",
       "description": "Asesor en procesos de transformación digital de empresas, Asesor de negocios para la mejora de procesos y toma de decisiones",
       "categorias": [
@@ -929,7 +929,7 @@
       "name": "Mack Velázquez",
       "email": "Liliana_Lomeli97@nearbpo.com",
       "image": "https://randomuser.me/api/portraits/men/45.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "4",
       "description": "Experto en estrategias de marketing digital",
       "categorias": [
@@ -953,7 +953,7 @@
       "name": "Jacqueline Vázquez",
       "email": "Rubn_Delarosa53@gmail.com",
       "image": "https://randomuser.me/api/portraits/men/25.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "5",
       "description": "Especialista en protección y seguridad de sistemas informáticos, Desarrollador de software especializado en ingeniería",
       "categorias": [
@@ -981,7 +981,7 @@
       "name": "Carl Reyes DDS",
       "email": "Lorenzo_Blanco@yahoo.com",
       "image": "https://randomuser.me/api/portraits/men/27.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "3",
       "description": "Creador de diseños de moda y prendas de vestir",
       "categorias": [
@@ -1005,7 +1005,7 @@
       "name": "Shaun Cervántez",
       "email": "JuanManuel.Valverde@yahoo.com",
       "image": "https://randomuser.me/api/portraits/women/6.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "2",
       "description": "Creador de diseños y planos de interiores de espacios",
       "categorias": [
@@ -1029,7 +1029,7 @@
       "name": "Everett Reynoso",
       "email": "Lucia_Armas@hotmail.com",
       "image": "https://randomuser.me/api/portraits/men/39.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "4",
       "description": "Creador de joyas y accesorios hechos a mano",
       "categorias": [
@@ -1053,7 +1053,7 @@
       "name": "Elsie Villareal",
       "email": "Fernando62@corpfolder.com",
       "image": "https://randomuser.me/api/portraits/men/39.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "3",
       "description": "Especialista en asesoramiento financiero y gestión de finanzas",
       "categorias": [
@@ -1101,7 +1101,7 @@
       "name": "Alexander Duran",
       "email": "JosEmilio16@nearbpo.com",
       "image": "https://randomuser.me/api/portraits/men/5.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "4",
       "description": "Experto en el arte del origami, plegado de papel, Creador de joyas y accesorios hechos a mano",
       "categorias": [
@@ -1129,7 +1129,7 @@
       "name": "Margie Rascón",
       "email": "Jimena_Avils83@nearbpo.com",
       "image": "https://randomuser.me/api/portraits/women/40.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "5",
       "description": "Encargado de la administración y mantenimiento de sistemas informáticos",
       "categorias": [
@@ -1153,7 +1153,7 @@
       "name": "Mamie Montero",
       "email": "Francisca30@nearbpo.com",
       "image": "https://randomuser.me/api/portraits/women/28.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "4",
       "description": "Profesional en diseño y confección de prendas a medida",
       "categorias": [
@@ -1177,7 +1177,7 @@
       "name": "Kent Melgar",
       "email": "Cristian.Galarza93@yahoo.com",
       "image": "https://randomuser.me/api/portraits/men/3.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "2",
       "description": "Creador de accesorios de bisutería y complementos, Profesional en diseño y confección de prendas a medida",
       "categorias": [
@@ -1233,7 +1233,7 @@
       "name": "Rick Khalid",
       "email": "Yolanda16@gmail.com",
       "image": "https://randomuser.me/api/portraits/women/38.jpg",
-      "genre": "male",
+      "genre": "female",
       "years_exp": "1",
       "description": "Desarrollador de software especializado en ingeniería, Experto en diseño y desarrollo de sitios web",
       "categorias": [
@@ -1289,7 +1289,7 @@
       "name": "Floyd Trejo",
       "email": "Manuel_Barrera@corpfolder.com",
       "image": "https://randomuser.me/api/portraits/men/21.jpg",
-      "genre": "female",
+      "genre": "male",
       "years_exp": "2",
       "description": "Artista que crea ilustraciones y dibujos",
       "categorias": [
