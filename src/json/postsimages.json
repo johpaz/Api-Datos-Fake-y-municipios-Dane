@@ -154,42 +154,7 @@
                
               "description": "Ofrezco mis servicios como Traductor para colaborar en proyectos innovadores."
             },
-            {
-              "id": 21,
-              "profesionalId": "21",
-              "title": "Ofreciendo el servicio: Desarrollador web",
-              "image": 
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7CCBDT3h5ned88QVv_I70Tkq0fX4MlEpfQ&usqp=CAU",
-               
-              "description": "Ofrezco mis servicios como Desarrollador web para resolver problemas complejos."
-            },
-            {
-              "id": 22,
-              "profesionalId": "22",
-              "title": "Ofreciendo el servicio: Fotógrafo",
-              "image":
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOU0TmFYGlxbbxEon4oDjc8zNnrKwt8BjlVg&usqp=CAU",
-               
-              "description": "Ofrezco mis servicios como Fotógrafo para realizar proyectos emocionantes."
-            },
-            {
-              "id": 23,
-              "profesionalId": "23",
-              "title": "Ofreciendo el servicio: Chef a domicilio",
-              "image":
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiMMh2lIabuBmU3O-zJuV5Bhc2e8PnqxJtXA&usqp=CAU",
-              
-              "description": "Ofrezco mis servicios como Chef a domicilio para realizar tareas específicas."
-            },
-            {
-              "id": 24,
-              "profesionalId": "24",
-              "title": "Ofreciendo el servicio: Entrenador personal",
-              "image": 
-                "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg92Ds0VwVS1IxclqzX0mWdGrxUB61ciGAQ&usqp=CAU",
-               
-              "description": "Ofrezco mis servicios como Entrenador personal para completar proyectos desafiantes."
-            }
+          
         
     
   ]
