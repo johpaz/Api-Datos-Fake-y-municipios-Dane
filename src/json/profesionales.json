@@ -1090,271 +1090,278 @@
                   
               
                 
-                    {
-                      "id": 41,
-                      "name": "Elsie Villareal",
-                      "email": "Fernando62@corpfolder.com",
-                      "image": "https://randomuser.me/api/portraits/men/39.jpg",
-                      "genre": "male",
-                      "years_exp": "3",
-                      "description": "Especialista en asesoramiento financiero y gestión de finanzas",
-                      "categorias": [
+                  
                         {
-                          "id": 3,
-                          "nombre": "Consultoría"
-                        }
-                      ],
-                      "profesiones": [
+                          "id": 41,
+                          "name": "Elsie Villareal",
+                          "email": "Fernando62@corpfolder.com",
+                          "password": "contraseña41",
+                          "image": "https://randomuser.me/api/portraits/men/39.jpg",
+                          "genre": "male",
+                          "years_exp": "3",
+                          "description": "Especialista en asesoramiento financiero y gestión de finanzas",
+                          "categorias": [
+                            {
+                              "id": 3,
+                              "nombre": "Consultoría"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 22,
+                              "name": "Consultor financiero"
+                            }
+                          ],
+                          "rating": 4,
+                          "ubicacion": "Apodaca Rafaelbury",
+                          "phone": "588.644.811"
+                        },
                         {
-                          "id": 22,
-                          "name": "Consultor financiero"
-                        }
-                      ],
-                      "rating": 4,
-                      "ubicacion": "Apodaca Rafaelbury",
-                      "phone": "588.644.811"
-                    },
-                    {
-                      "id": 42,
-                      "name": "Sheri Quintero",
-                      "email": "Elizabeth_XairoBelmonte@nearbpo.com",
-                      "image": "https://randomuser.me/api/portraits/women/26.jpg",
-                      "genre": "female",
-                      "years_exp": "1",
-                      "description": "Creador de arte digital y gráficos",
-                      "categorias": [
+                          "id": 42,
+                          "name": "Sheri Quintero",
+                          "email": "Elizabeth_XairoBelmonte@nearbpo.com",
+                          "password": "contraseña42",
+                          "image": "https://randomuser.me/api/portraits/women/26.jpg",
+                          "genre": "female",
+                          "years_exp": "1",
+                          "description": "Creador de arte digital y gráficos",
+                          "categorias": [
+                            {
+                              "id": 2,
+                              "nombre": "Arte y Diseño"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 16,
+                              "name": "Artista digital"
+                            }
+                          ],
+                          "rating": 5,
+                          "ubicacion": "Corpus Christi",
+                          "phone": "574 232 376"
+                        },
                         {
-                          "id": 2,
-                          "nombre": "Arte y Diseño"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 16,
-                          "name": "Artista digital"
-                        }
-                      ],
-                      "rating": 5,
-                      "ubicacion": "Corpus Christi",
-                      "phone": "574 232 376"
-                    },
-                    {
-                      "id": 43,
-                      "name": "Alexander Duran",
-                      "email": "JosEmilio16@nearbpo.com",
-                      "image": "https://randomuser.me/api/portraits/men/5.jpg",
-                      "genre": "male",
-                      "years_exp": "4",
-                      "description": "Experto en el arte del origami, plegado de papel, Creador de joyas y accesorios hechos a mano",
-                      "categorias": [
-                        {
-                          "id": 5,
-                          "nombre": "Manualidades"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 50,
-                          "name": "Origamista"
+                          "id": 43,
+                          "name": "Alexander Duran",
+                          "email": "JosEmilio16@nearbpo.com",
+                          "password": "contraseña43",
+                          "image": "https://randomuser.me/api/portraits/men/5.jpg",
+                          "genre": "male",
+                          "years_exp": "4",
+                          "description": "Experto en el arte del origami, plegado de papel, Creador de joyas y accesorios hechos a mano",
+                          "categorias": [
+                            {
+                              "id": 5,
+                              "nombre": "Manualidades"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 50,
+                              "name": "Origamista"
+                            },
+                            {
+                              "id": 44,
+                              "name": "Joyería artesanal"
+                            }
+                          ],
+                          "rating": 5,
+                          "ubicacion": "Navojoa Gregorio",
+                          "phone": "529 707 129"
                         },
                         {
                           "id": 44,
-                          "name": "Joyería artesanal"
-                        }
-                      ],
-                      "rating": 5,
-                      "ubicacion": "Navojoa Gregorio",
-                      "phone": "529 707 129"
-                    },
-                    {
-                      "id": 44,
-                      "name": "Margie Rascón",
-                      "email": "Jimena_Avils83@nearbpo.com",
-                      "image": "https://randomuser.me/api/portraits/women/40.jpg",
-                      "genre": "female",
-                      "years_exp": "5",
-                      "description": "Encargado de la administración y mantenimiento de sistemas informáticos",
-                      "categorias": [
+                          "name": "Margie Rascón",
+                          "email": "Jimena_Avils83@nearbpo.com",
+                          "password": "contraseña44",
+                          "image": "https://randomuser.me/api/portraits/women/40.jpg",
+                          "genre": "female",
+                          "years_exp": "5",
+                          "description": "Encargado de la administración y mantenimiento de sistemas informáticos",
+                          "categorias": [
+                            {
+                              "id": 1,
+                              "nombre": "Tecnología"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 7,
+                              "name": "Administrador de sistemas"
+                            }
+                          ],
+                          "rating": 2,
+                          "ubicacion": "Jacobochester",
+                          "phone": "5987-695-224"
+                        },
                         {
-                          "id": 1,
-                          "nombre": "Tecnología"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 7,
-                          "name": "Administrador de sistemas"
-                        }
-                      ],
-                      "rating": 2,
-                      "ubicacion": "Jacobochester",
-                      "phone": "5987-695-224"
-                    },
-                    {
-                      "id": 45,
-                      "name": "Mamie Montero",
-                      "email": "Francisca30@nearbpo.com",
-                      "image": "https://randomuser.me/api/portraits/women/28.jpg",
-                      "genre": "female",
-                      "years_exp": "4",
-                      "description": "Profesional en diseño y confección de prendas a medida",
-                      "categorias": [
-                        {
-                          "id": 5,
-                          "nombre": "Manualidades"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 43,
-                          "name": "Sastrería"
-                        }
-                      ],
-                      "rating": 4,
-                      "ubicacion": "Zacatzingo Antoniastad",
-                      "phone": "569 694 410"
-                    },
-                    {
-                      "id": 46,
-                      "name": "Kent Melgar",
-                      "email": "Cristian.Galarza93@yahoo.com",
-                      "image": "https://randomuser.me/api/portraits/men/3.jpg",
-                      "genre": "male",
-                      "years_exp": "2",
-                      "description": "Creador de accesorios de bisutería y complementos, Profesional en diseño y confección de prendas a medida",
-                      "categorias": [
-                        {
-                          "id": 5,
-                          "nombre": "Manualidades"
-                        }
-                      ],
-                      "profesiones": [
+                          "id": 45,
+                          "name": "Mamie Montero",
+                          "email": "Francisca30@nearbpo.com",
+                          "password": "contraseña45",
+                          "image": "https://randomuser.me/api/portraits/women/28.jpg",
+                          "genre": "female",
+                          "years_exp": "4",
+                          "description": "Profesional en diseño y confección de prendas a medida",
+                          "categorias": [
+                            {
+                              "id": 5,
+                              "nombre": "Manualidades"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 43,
+                              "name": "Sastrería"
+                            }
+                          ],
+                          "rating": 4,
+                          "ubicacion": "Zacatzingo Antoniastad",
+                          "phone": "569 694 410"
+                        },
                         {
                           "id": 46,
-                          "name": "Bisutería"
+                          "name": "Kent Melgar",
+                          "email": "Cristian.Galarza93@yahoo.com",
+                          "password": "contraseña46",
+                          "image": "https://randomuser.me/api/portraits/men/3.jpg",
+                          "genre": "male",
+                          "years_exp": "2",
+                          "description": "Creador de accesorios de bisutería y complementos, Profesional en diseño y confección de prendas a medida",
+                          "categorias": [
+                            {
+                              "id": 5,
+                              "nombre": "Manualidades"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 46,
+                              "name": "Bisutería"
+                            },
+                            {
+                              "id": 43,
+                              "name": "Sastrería"
+                            }
+                          ],
+                          "rating": 2,
+                          "ubicacion": "Adelachester",
+                          "phone": "525745305"
                         },
                         {
-                          "id": 43,
-                          "name": "Sastrería"
-                        }
-                      ],
-                      "rating": 2,
-                      "ubicacion": "Adelachester",
-                      "phone": "525745305"
-                    },
-                    {
-                      "id": 47,
-                      "name": "Sra. Jean Adorno",
-                      "email": "Raquel_Orellana71@nearbpo.com",
-                      "image": "https://randomuser.me/api/portraits/women/30.jpg",
-                      "genre": "female",
-                      "years_exp": "5",
-                      "description": "Creador de animaciones en 3D, Creador de logotipos y marcas gráficas",
-                      "categorias": [
-                        {
-                          "id": 2,
-                          "nombre": "Arte y Diseño"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 14,
-                          "name": "Animador 3D"
+                          "id": 47,
+                          "name": "Sra. Jean Adorno",
+                          "email": "Raquel_Orellana71@nearbpo.com",
+                          "password": "contraseña47",
+                          "image": "https://randomuser.me/api/portraits/women/30.jpg",
+                          "genre": "female",
+                          "years_exp": "5",
+                          "description": "Creador de animaciones en 3D, Creador de logotipos y marcas gráficas",
+                          "categorias": [
+                            {
+                              "id": 2,
+                              "nombre": "Arte y Diseño"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 14,
+                              "name": "Animador 3D"
+                            },
+                            {
+                              "id": 20,
+                              "name": "Diseñador de logotipos"
+                            }
+                          ],
+                          "rating": 5,
+                          "ubicacion": "Baton Rouge",
+                          "phone": "544786165"
                         },
                         {
-                          "id": 20,
-                          "name": "Diseñador de logotipos"
-                        }
-                      ],
-                      "rating": 5,
-                      "ubicacion": "Baton Rouge",
-                      "phone": "544786165"
-                    },
-                    {
-                      "id": 48,
-                      "name": "Rick Khalid",
-                      "email": "Yolanda16@gmail.com",
-                      "image": "https://randomuser.me/api/portraits/women/38.jpg",
-                      "genre": "female",
-                      "years_exp": "1",
-                      "description": "Desarrollador de software especializado en ingeniería, Experto en diseño y desarrollo de sitios web",
-                      "categorias": [
-                        {
-                          "id": 1,
-                          "nombre": "Tecnología"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 1,
-                          "name": "Programador"
+                          "id": 48,
+                          "name": "Rick Khalid",
+                          "email": "Yolanda16@gmail.com",
+                          "password": "contraseña48",
+                          "image": "https://randomuser.me/api/portraits/women/38.jpg",
+                          "genre": "female",
+                          "years_exp": "1",
+                          "description": "Desarrollador de software especializado en ingeniería, Experto en diseño y desarrollo de sitios web",
+                          "categorias": [
+                            {
+                              "id": 1,
+                              "nombre": "Tecnología"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 1,
+                              "name": "Programador"
+                            },
+                            {
+                              "id": 2,
+                              "name": "Diseñador web"
+                            }
+                          ],
+                          "rating": 4,
+                          "ubicacion": "Delarosastad",
+                          "phone": "566.694.576"
                         },
                         {
-                          "id": 2,
-                          "name": "Diseñador web"
-                        }
-                      ],
-                      "rating": 4,
-                      "ubicacion": "Delarosastad",
-                      "phone": "566.694.576"
-                    },
-                    {
-                      "id": 49,
-                      "name": "Ramon Karem",
-                      "email": "Rosario_Venegas@gmail.com",
-                      "image": "https://randomuser.me/api/portraits/men/43.jpg",
-                      "genre": "male",
-                      "years_exp": "1",
-                      "description": "Asesor de gestión empresarial para la mejora de procesos y eficiencia, Especialista en asesoramiento financiero y gestión de finanzas",
-                      "categorias": [
-                        {
-                          "id": 3,
-                          "nombre": "Consultoría"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 27,
-                          "name": "Consultor de gestión"
+                          "id": 49,
+                          "name": "Ramon Karem",
+                          "email": "Rosario_Venegas@gmail.com",
+                          "password": "contraseña49",
+                          "image": "https://randomuser.me/api/portraits/men/43.jpg",
+                          "genre": "male",
+                          "years_exp": "1",
+                          "description": "Asesor de gestión empresarial para la mejora de procesos y eficiencia, Especialista en asesoramiento financiero y gestión de finanzas",
+                          "categorias": [
+                            {
+                              "id": 3,
+                              "nombre": "Consultoría"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 27,
+                              "name": "Consultor de gestión"
+                            },
+                            {
+                              "id": 22,
+                              "name": "Consultor financiero"
+                            }
+                          ],
+                          "rating": 2,
+                          "ubicacion": "Ciudad Obregón Diana",
+                          "phone": "552 125 204"
                         },
                         {
-                          "id": 22,
-                          "name": "Consultor financiero"
+                          "id": 50,
+                          "name": "Floyd Trejo",
+                          "email": "Manuel_Barrera@corpfolder.com",
+                          "password": "contraseña50",
+                          "image": "https://randomuser.me/api/portraits/men/21.jpg",
+                          "genre": "male",
+                          "years_exp": "2",
+                          "description": "Artista que crea ilustraciones y dibujos",
+                          "categorias": [
+                            {
+                              "id": 2,
+                              "nombre": "Arte y Diseño"
+                            }
+                          ],
+                          "profesiones": [
+                            {
+                              "id": 12,
+                              "name": "Ilustrador"
+                            }
+                          ],
+                          "rating": 1,
+                          "ubicacion": "Zamora-Jacona Marcos",
+                          "phone": "556948519"
                         }
-                      ],
-                      "rating": 2,
-                      "ubicacion": "Ciudad Obregón Diana",
-                      "phone": "552 125 204"
-                    },
-                    {
-                      "id": 50,
-                      "name": "Floyd Trejo",
-                      "email": "Manuel_Barrera@corpfolder.com",
-                      "image": "https://randomuser.me/api/portraits/men/21.jpg",
-                      "genre": "male",
-                      "years_exp": "2",
-                      "description": "Artista que crea ilustraciones y dibujos",
-                      "categorias": [
-                        {
-                          "id": 2,
-                          "nombre": "Arte y Diseño"
-                        }
-                      ],
-                      "profesiones": [
-                        {
-                          "id": 12,
-                          "name": "Ilustrador"
-                        }
-                      ],
-                      "rating": 1,
-                      "ubicacion": "Zamora-Jacona Marcos",
-                      "phone": "556948519"
-                    }
-                
-                             
-          
-            
-        
+                        
         
     
   ]
