@@ -9,6 +9,8 @@
       "years_exp": "3",
       "password": "abcd1234",
       "description": "Creador de arte digital y gráficos",
+      "CountryId": 1,
+      "LocationId": 1,
       "categorias": [
         {
           "id": 2,
@@ -22,7 +24,6 @@
         }
       ],
       "rating": 1,
-      "ubicacion": "Leonorhaven",
       "phone": "589 018 310"
     },
     {
@@ -34,6 +35,8 @@
       "years_exp": "1",
       "password": "12xyz34",
       "description": "Creador de logotipos y marcas gráficas",
+      "CountryId": 1,
+      "LocationId": 3,
       "categorias": [
         {
           "id": 2,
@@ -47,7 +50,6 @@
         }
       ],
       "rating": 4,
-      "ubicacion": "Oteromouth",
       "phone": "5191-450-951"
     },
     {
@@ -59,6 +61,8 @@
       "years_exp": "4",
       "password": "pqr5678",
       "description": "Creador de piezas de cerámica y alfarería, Creador de accesorios de bisutería y complementos",
+      "CountryId": 1,
+      "LocationId": 5,
       "categorias": [
         {
           "id": 5,
@@ -76,7 +80,6 @@
         }
       ],
       "rating": 5,
-      "ubicacion": "Toluca Marcela",
       "phone": "5575-547-745"
     },
     {
@@ -88,6 +91,8 @@
       "years_exp": "2",
       "password": "90stu78v",
       "description": "Experto en diseño y desarrollo de sitios web, Experto en diseño y configuración de redes de computadoras",
+      "CountryId": 1,
+      "LocationId": 5,
       "categorias": [
         {
           "id": 1,
@@ -105,7 +110,6 @@
         }
       ],
       "rating": 3,
-      "ubicacion": "Tempe",
       "phone": "537 072 243"
     },
     {
@@ -117,6 +121,8 @@
       "years_exp": "2",
       "password": "12xy34z",
       "description": "Creador de diseños de moda y prendas de vestir, Diseñador de escenarios para teatro, cine y televisión",
+      "CountryId": 1,
+      "LocationId": 5,
       "categorias": [
         {
           "id": 2,
@@ -134,7 +140,6 @@
         }
       ],
       "rating": 4,
-      "ubicacion": "Botellochester",
       "phone": "526064680"
     },
     {
@@ -146,6 +151,8 @@
       "years_exp": "3",
       "password": "abcde12345",
       "description": "Asistente personal remoto que realiza tareas administrativas, Experto en asesoramiento financiero y planificación económica",
+      "CountryId": 1,
+      "LocationId": 10,
       "categorias": [
         {
           "id": 4,
@@ -163,7 +170,6 @@
         }
       ],
       "rating": 2,
-      "ubicacion": "Becerraville",
       "phone": "557676970"
     },
     {
@@ -175,6 +181,8 @@
       "years_exp": "3",
       "password": "pqrst6789",
       "description": "Experto en diseño y desarrollo de sitios web",
+      "CountryId": 1,
+      "LocationId": 16,
       "categorias": [
         {
           "id": 1,
@@ -188,7 +196,6 @@
         }
       ],
       "rating": 5,
-      "ubicacion": "Flint",
       "phone": "5614-439-369"
     },
     {
@@ -200,6 +207,8 @@
       "years_exp": "3",
       "password": "uvwx12yz",
       "description": "Creador de pasteles y postres, Especialista en decoración de eventos y celebraciones",
+      "CountryId": 1,
+      "LocationId": 23,
       "categorias": [
         {
           "id": 5,
@@ -217,7 +226,6 @@
         }
       ],
       "rating": 4,
-      "ubicacion": "Herreratown",
       "phone": "502.814.168"
     },
     {
@@ -229,6 +237,8 @@
       "years_exp": "1",
       "password": "9876vuts",
       "description": "Experto en desarrollo y mantenimiento de software, Especialista en protección y seguridad de sistemas informáticos",
+      "CountryId": 1,
+      "LocationId": 22,
       "categorias": [
         {
           "id": 1,
@@ -246,7 +256,6 @@
         }
       ],
       "rating": 2,
-      "ubicacion": "Medford",
       "phone": "585352131"
     },
     {
@@ -258,6 +267,8 @@
       "years_exp": "2",
       "password": "5934abcde12xyza",
       "description": "Especialista en asesoramiento financiero y gestión de finanzas, Experto en desarrollo de estrategias empresariales",
+      "CountryId": 2,
+      "LocationId": 26,
       "categorias": [
         {
           "id": 3,
@@ -275,7 +286,6 @@
         }
       ],
       "rating": 4,
-      "ubicacion": "Tula Andrés",
       "phone": "593 494 427"
     },
         {
@@ -286,6 +296,8 @@
           "genre": "female",
           "years_exp": "1",
           "password": "abc123",
+          "CountryId": 2,
+          "LocationId": 29,
           "description": "Profesional en diseño y confección de prendas a medida, Creador de pasteles y postres",
           "categorias": [
             {
@@ -304,7 +316,6 @@
             }
           ],
           "rating": 1,
-          "ubicacion": "Carbajalborough",
           "phone": "537774413"
         },
         {
@@ -315,6 +326,8 @@
           "genre": "female",
           "years_exp": "3",
           "password": "xyz789",
+          "CountryId": 2,
+          "LocationId": 27,
           "description": "Creador de diseños de moda y prendas de vestir, Creador de diseños y planos de interiores de espacios",
           "categorias": [
             {
@@ -333,7 +346,6 @@
             }
           ],
           "rating": 3,
-          "ubicacion": "Marcelashire",
           "phone": "502147550"
         },
         {
@@ -345,6 +357,8 @@
           "years_exp": "4",
           "password": "pqr123",
           "description": "Encargado de gestionar las redes sociales de una marca o empresa, Profesional en terapia y tratamiento de problemas emocionales y mentales",
+          "CountryId": 2,
+          "LocationId": 32,
           "categorias": [
             {
               "id": 4,
@@ -362,7 +376,6 @@
             }
           ],
           "rating": 4,
-          "ubicacion": "Juárez Irene",
           "phone": "5857-345-939"
         },
         {
@@ -374,6 +387,8 @@
           "years_exp": "4",
           "password": "def456",
           "description": "Especialista en gestión de recursos humanos y desarrollo organizacional",
+          "CountryId": 3,
+          "LocationId": 38,        
           "categorias": [
             {
               "id": 3,
@@ -387,7 +402,6 @@
             }
           ],
           "rating": 3,
-          "ubicacion": "Zacatzingo Octavio",
           "phone": "594 940 023"
         },
         {
@@ -399,6 +413,8 @@
           "years_exp": "5",
           "password": "mno789",
           "description": "Experto en desarrollo y mantenimiento de software, Encargado de la administración y mantenimiento de sistemas informáticos",
+          "CountryId": 3,
+          "LocationId": 39, 
           "categorias": [
             {
               "id": 1,
@@ -416,8 +432,7 @@
             }
           ],
           "rating": 5,
-          "ubicacion": "Irapuato Concepciónchester",
-          "phone": "5908-628-817"
+           "phone": "5908-628-817"
         },
         {
           "id": 16,
@@ -427,6 +442,8 @@
           "genre": "female",
           "years_exp": "3",
           "password": "stu345",
+          "CountryId": 3,
+          "LocationId": 50, 
           "description": "Creador de joyas y accesorios hechos a mano, Artista que crea esculturas en diferentes materiales",
           "categorias": [
             {
@@ -445,7 +462,6 @@
             }
           ],
           "rating": 5,
-          "ubicacion": "Ciudad Acuña Estebanburgh",
           "phone": "515.411.491"
         },
         {
@@ -456,6 +472,8 @@
           "genre": "male",
           "years_exp": "3",
           "password": "vwx123",
+          "CountryId": 3,
+          "LocationId": 60, 
           "description": "Experto en estrategias y técnicas de marketing, Especialista en gestión de calidad y mejora continua",
           "categorias": [
             {
@@ -474,7 +492,6 @@
             }
           ],
           "rating": 5,
-          "ubicacion": "Farmington",
           "phone": "502 339 336"
         },
         {
@@ -485,6 +502,8 @@
           "genre": "female",
           "years_exp": "5",
           "password": "yza678",
+          "CountryId": 4,
+          "LocationId": 62, 
           "description": "Creador de maquetas y modelos tridimensionales",
           "categorias": [
             {
@@ -499,7 +518,6 @@
             }
           ],
           "rating": 4,
-          "ubicacion": "Pocatello",
           "phone": "535706524"
         },
         {
@@ -510,6 +528,8 @@
           "genre": "female",
           "years_exp": "2",
           "password": "bcd901",
+          "CountryId": 4,
+          "LocationId": 62, 
           "description": "Profesional de la fotografía, Diseñador de escenarios para teatro, cine y televisión",
           "categorias": [
             {
@@ -528,7 +548,6 @@
             }
           ],
           "rating": 5,
-          "ubicacion": "St. George",
           "phone": "521.201.027"
         },
         {
@@ -539,6 +558,8 @@
           "genre": "female",
           "years_exp": "3",
           "password": "efg234",
+          "CountryId": 4,
+          "LocationId": 69, 
           "description": "Creador de arreglos y decoraciones florales, Especialista en decoración de eventos y celebraciones",
           "categorias": [
             {
@@ -557,7 +578,6 @@
             }
           ],
           "rating": 4,
-          "ubicacion": "Chilpancingo Yolandaton",
           "phone": "554203795"
         }, {
               "id": 21,
@@ -567,6 +587,8 @@
               "genre": "male",
               "years_exp": "2",
               "password": "abc123",
+              "CountryId": 4,
+             "LocationId": 69, 
               "description": "Experto en desarrollo de sistemas y algoritmos de inteligencia artificial, Desarrollador de software especializado en ingeniería",
               "categorias": [
                 {
@@ -585,7 +607,6 @@
                 }
               ],
               "rating": 2,
-              "ubicacion": "Waco",
               "phone": "508772254"
             },
             {
@@ -596,6 +617,8 @@
               "genre": "male",
               "years_exp": "1",
               "password": "def456",
+              "CountryId": 5,
+            "LocationId": 84, 
               "description": "Experto en asesoramiento financiero y planificación económica",
               "categorias": [
                 {
@@ -610,7 +633,6 @@
                 }
               ],
               "rating": 3,
-              "ubicacion": "Magañamouth",
               "phone": "506 291 771"
             },
             {
@@ -621,6 +643,8 @@
               "genre": "male",
               "years_exp": "1",
               "password": "ghi789",
+              "CountryId": 5,
+              "LocationId": 80,
               "description": "Creador de animaciones en 3D",
               "categorias": [
                 {
@@ -635,7 +659,6 @@
                 }
               ],
               "rating": 2,
-              "ubicacion": "San Juan del Río Antoniotown",
               "phone": "551.296.318"
             },
             {
@@ -646,6 +669,8 @@
               "genre": "female",
               "years_exp": "4",
               "password": "jkl901",
+              "CountryId": 5,
+              "LocationId": 104, 
               "description": "Profesional que brinda servicios de traducción de idiomas",
               "categorias": [
                 {
@@ -660,7 +685,6 @@
                 }
               ],
               "rating": 5,
-              "ubicacion": "Isaiaston",
               "phone": "517 621 270"
             },
             {
@@ -671,6 +695,8 @@
               "genre": "male",
               "years_exp": "2",
               "password": "mno234",
+              "CountryId": 5,
+              "LocationId": 89, 
               "description": "Experto en estrategias y técnicas de marketing, Experto en desarrollo de estrategias empresariales",
               "categorias": [
                 {
@@ -689,7 +715,6 @@
                 }
               ],
               "rating": 2,
-              "ubicacion": "Cadenamouth",
               "phone": "585.542.672"
             },
             {
@@ -700,6 +725,8 @@
               "genre": "female",
               "years_exp": "5",
               "password": "pqr567",
+              "CountryId": 5,
+              "LocationId": 99, 
               "description": "Experto en el arte del origami, plegado de papel",
               "categorias": [
                 {
@@ -714,8 +741,7 @@
                 }
               ],
               "rating": 5,
-              "ubicacion": "Tecomán Mercedes",
-              "phone": "593.163.092"
+               "phone": "593.163.092"
             },
             {
               "id": 27,
@@ -725,6 +751,8 @@
               "genre": "female",
               "years_exp": "5",
               "password": "stu345",
+              "CountryId": 5,
+              "LocationId": 84, 
               "description": "Creador de velas artesanales y aromáticas, Creador de joyas y accesorios hechos a mano",
               "categorias": [
                 {
@@ -754,6 +782,8 @@
               "genre": "male",
               "years_exp": "4",
               "password": "vwx123",
+              "CountryId": 5,
+              "LocationId": 84,
               "description": "Experto en optimización de motores de búsqueda",
               "categorias": [
                 {
@@ -768,7 +798,6 @@
                 }
               ],
               "rating": 1,
-              "ubicacion": "San Nicolás de los Garza Oliviashire",
               "phone": "523 689 309"
             },
             {
@@ -779,6 +808,8 @@
               "genre": "female",
               "years_exp": "2",
               "password": "yz01ab",
+              "CountryId": 6,
+              "LocationId": 120, 
               "description": "Asesor de negocios para la mejora de procesos y toma de decisiones",
               "categorias": [
                 {
@@ -804,6 +835,8 @@
               "genre": "female",
               "years_exp": "1",
               "password": "cd02ef",
+              "CountryId": 6,
+              "LocationId": 108, 
               "description": "Artista que crea ilustraciones y dibujos, Profesional de la fotografía",
               "categorias": [
                 {
@@ -822,7 +855,6 @@
                 }
               ],
               "rating": 1,
-              "ubicacion": "Tejadabury",
               "phone": "592.162.463"
             },
                {
@@ -833,6 +865,8 @@
                       "image": "https://randomuser.me/api/portraits/women/30.jpg",
                       "genre": "female",
                       "years_exp": "2",
+                      "CountryId": 7,
+                      "LocationId": 121, 
                       "description": "Creador de logotipos y marcas gráficas",
                       "categorias": [
                         {
@@ -847,7 +881,6 @@
                         }
                       ],
                       "rating": 1,
-                      "ubicacion": "Ciudad Acuña Timoteoside",
                       "phone": "550 457 515"
                     },
                     {
@@ -858,6 +891,8 @@
                       "image": "https://randomuser.me/api/portraits/men/27.jpg",
                       "genre": "male",
                       "years_exp": "5",
+                      "CountryId": 7,
+                      "LocationId": 128, 
                       "description": "Asesor en procesos de transformación digital de empresas, Asesor de negocios para la mejora de procesos y toma de decisiones",
                       "categorias": [
                         {
@@ -876,7 +911,6 @@
                         }
                       ],
                       "rating": 3,
-                      "ubicacion": "Piedras Negras Florenciaport",
                       "phone": "566272667"
                     },
                     {
@@ -888,7 +922,9 @@
                       "genre": "female",
                       "years_exp": "2",
                       "description": "Encargado de la administración y mantenimiento de sistemas informáticos",
-                      "categorias": [
+                      "CountryId": 7,
+                      "LocationId": 129,
+                       "categorias": [
                         {
                           "id": 1,
                           "nombre": "Tecnología"
@@ -901,8 +937,7 @@
                         }
                       ],
                       "rating": 4,
-                      "ubicacion": "Víctorside",
-                      "phone": "535.169.743"
+                     "phone": "535.169.743"
                     },
                     {
                       "id": 34,
@@ -912,6 +947,8 @@
                       "image": "https://randomuser.me/api/portraits/men/17.jpg",
                       "genre": "male",
                       "years_exp": "4",
+                      "CountryId": 8,
+                      "LocationId": 150, 
                       "description": "Creador de velas artesanales y aromáticas, Especialista en decoración de eventos y celebraciones",
                       "categorias": [
                         {
@@ -930,7 +967,6 @@
                         }
                       ],
                       "rating": 1,
-                      "ubicacion": "Nájeraport",
                       "phone": "5336-244-780"
                     },
                     {
@@ -941,6 +977,8 @@
                       "image": "https://randomuser.me/api/portraits/women/12.jpg",
                       "genre": "female",
                       "years_exp": "2",
+                      "CountryId": 8,
+                      "LocationId": 153, 
                       "description": "Creador de joyas y accesorios hechos a mano",
                       "categorias": [
                         {
@@ -955,7 +993,6 @@
                         }
                       ],
                       "rating": 5,
-                      "ubicacion": "Buenavista Jorgestad",
                       "phone": "572.017.863"
                     },
                     {
@@ -966,6 +1003,8 @@
                       "image": "https://randomuser.me/api/portraits/men/45.jpg",
                       "genre": "male",
                       "years_exp": "4",
+                      "CountryId": 8,
+                      "LocationId": 145, 
                       "description": "Experto en estrategias de marketing digital",
                       "categorias": [
                         {
@@ -980,8 +1019,7 @@
                         }
                       ],
                       "rating": 5,
-                      "ubicacion": "Alameda",
-                      "phone": "579.330.704"
+                        "phone": "579.330.704"
                     },
                     {
                       "id": 37,
@@ -991,6 +1029,8 @@
                       "image": "https://randomuser.me/api/portraits/men/25.jpg",
                       "genre": "male",
                       "years_exp": "5",
+                      "CountryId": 8,
+                      "LocationId": 147, 
                       "description": "Especialista en protección y seguridad de sistemas informáticos, Desarrollador de software especializado en ingeniería",
                       "categorias": [
                         {
@@ -1009,7 +1049,6 @@
                         }
                       ],
                       "rating": 2,
-                      "ubicacion": "Tlalnepantla Elsaberg",
                       "phone": "575.349.292"
                     },
                     {
@@ -1020,6 +1059,8 @@
                       "image": "https://randomuser.me/api/portraits/men/27.jpg",
                       "genre": "male",
                       "years_exp": "3",
+                      "CountryId": 9,
+                      "LocationId": 154, 
                       "description": "Creador de diseños de moda y prendas de vestir",
                       "categorias": [
                         {
@@ -1034,7 +1075,6 @@
                         }
                       ],
                       "rating": 2,
-                      "ubicacion": "Tamayoburgh",
                       "phone": "515105003"
                     },
                     {
@@ -1045,6 +1085,8 @@
                       "image": "https://randomuser.me/api/portraits/women/6.jpg",
                       "genre": "female",
                       "years_exp": "2",
+                      "CountryId": 9,
+                      "LocationId": 165, 
                       "description": "Creador de diseños y planos de interiores de espacios",
                       "categorias": [
                         {
@@ -1059,7 +1101,6 @@
                         }
                       ],
                       "rating": 2,
-                      "ubicacion": "Felipeville",
                       "phone": "529.269.434"
                     },
                     {
@@ -1070,6 +1111,8 @@
                       "image": "https://randomuser.me/api/portraits/men/39.jpg",
                       "genre": "male",
                       "years_exp": "4",
+                      "CountryId": 9,
+                      "LocationId": 162, 
                       "description": "Creador de joyas y accesorios hechos a mano",
                       "categorias": [
                         {
@@ -1084,7 +1127,6 @@
                         }
                       ],
                       "rating": 3,
-                      "ubicacion": "Comitán de Dominguez Arturo",
                       "phone": "5154-574-064"
                     },
                   
@@ -1099,6 +1141,8 @@
                           "image": "https://randomuser.me/api/portraits/men/39.jpg",
                           "genre": "male",
                           "years_exp": "3",
+                          "CountryId": 9,
+                          "LocationId": 162, 
                           "description": "Especialista en asesoramiento financiero y gestión de finanzas",
                           "categorias": [
                             {
@@ -1113,7 +1157,6 @@
                             }
                           ],
                           "rating": 4,
-                          "ubicacion": "Apodaca Rafaelbury",
                           "phone": "588.644.811"
                         },
                         {
@@ -1124,6 +1167,8 @@
                           "image": "https://randomuser.me/api/portraits/women/26.jpg",
                           "genre": "female",
                           "years_exp": "1",
+                          "CountryId": 10,
+                          "LocationId": 169, 
                           "description": "Creador de arte digital y gráficos",
                           "categorias": [
                             {
@@ -1138,7 +1183,6 @@
                             }
                           ],
                           "rating": 5,
-                          "ubicacion": "Corpus Christi",
                           "phone": "574 232 376"
                         },
                         {
@@ -1149,6 +1193,8 @@
                           "image": "https://randomuser.me/api/portraits/men/5.jpg",
                           "genre": "male",
                           "years_exp": "4",
+                          "CountryId": 10,
+                          "LocationId": 170, 
                           "description": "Experto en el arte del origami, plegado de papel, Creador de joyas y accesorios hechos a mano",
                           "categorias": [
                             {
@@ -1167,7 +1213,6 @@
                             }
                           ],
                           "rating": 5,
-                          "ubicacion": "Navojoa Gregorio",
                           "phone": "529 707 129"
                         },
                         {
@@ -1178,6 +1223,8 @@
                           "image": "https://randomuser.me/api/portraits/women/40.jpg",
                           "genre": "female",
                           "years_exp": "5",
+                          "CountryId": 10,
+                          "LocationId": 187, 
                           "description": "Encargado de la administración y mantenimiento de sistemas informáticos",
                           "categorias": [
                             {
@@ -1192,7 +1239,6 @@
                             }
                           ],
                           "rating": 2,
-                          "ubicacion": "Jacobochester",
                           "phone": "5987-695-224"
                         },
                         {
@@ -1203,6 +1249,8 @@
                           "image": "https://randomuser.me/api/portraits/women/28.jpg",
                           "genre": "female",
                           "years_exp": "4",
+                          "CountryId": 11,
+                          "LocationId": 194, 
                           "description": "Profesional en diseño y confección de prendas a medida",
                           "categorias": [
                             {
@@ -1217,8 +1265,7 @@
                             }
                           ],
                           "rating": 4,
-                          "ubicacion": "Zacatzingo Antoniastad",
-                          "phone": "569 694 410"
+                           "phone": "569 694 410"
                         },
                         {
                           "id": 46,
@@ -1228,6 +1275,8 @@
                           "image": "https://randomuser.me/api/portraits/men/3.jpg",
                           "genre": "male",
                           "years_exp": "2",
+                          "CountryId": 12,
+                          "LocationId": 204, 
                           "description": "Creador de accesorios de bisutería y complementos, Profesional en diseño y confección de prendas a medida",
                           "categorias": [
                             {
@@ -1246,7 +1295,6 @@
                             }
                           ],
                           "rating": 2,
-                          "ubicacion": "Adelachester",
                           "phone": "525745305"
                         },
                         {
@@ -1257,6 +1305,8 @@
                           "image": "https://randomuser.me/api/portraits/women/30.jpg",
                           "genre": "female",
                           "years_exp": "5",
+                          "CountryId": 13,
+                          "LocationId": 239, 
                           "description": "Creador de animaciones en 3D, Creador de logotipos y marcas gráficas",
                           "categorias": [
                             {
@@ -1275,7 +1325,6 @@
                             }
                           ],
                           "rating": 5,
-                          "ubicacion": "Baton Rouge",
                           "phone": "544786165"
                         },
                         {
@@ -1286,6 +1335,8 @@
                           "image": "https://randomuser.me/api/portraits/women/38.jpg",
                           "genre": "female",
                           "years_exp": "1",
+                          "CountryId": 13,
+                          "LocationId": 243, 
                           "description": "Desarrollador de software especializado en ingeniería, Experto en diseño y desarrollo de sitios web",
                           "categorias": [
                             {
@@ -1304,8 +1355,7 @@
                             }
                           ],
                           "rating": 4,
-                          "ubicacion": "Delarosastad",
-                          "phone": "566.694.576"
+                           "phone": "566.694.576"
                         },
                         {
                           "id": 49,
@@ -1315,6 +1365,8 @@
                           "image": "https://randomuser.me/api/portraits/men/43.jpg",
                           "genre": "male",
                           "years_exp": "1",
+                          "CountryId": 13,
+                          "LocationId": 249, 
                           "description": "Asesor de gestión empresarial para la mejora de procesos y eficiencia, Especialista en asesoramiento financiero y gestión de finanzas",
                           "categorias": [
                             {
@@ -1333,7 +1385,6 @@
                             }
                           ],
                           "rating": 2,
-                          "ubicacion": "Ciudad Obregón Diana",
                           "phone": "552 125 204"
                         },
                         {
@@ -1344,6 +1395,8 @@
                           "image": "https://randomuser.me/api/portraits/men/21.jpg",
                           "genre": "male",
                           "years_exp": "2",
+                          "CountryId": 13,
+                          "LocationId": 243, 
                           "description": "Artista que crea ilustraciones y dibujos",
                           "categorias": [
                             {
@@ -1358,7 +1411,6 @@
                             }
                           ],
                           "rating": 1,
-                          "ubicacion": "Zamora-Jacona Marcos",
                           "phone": "556948519"
                         }
                         
