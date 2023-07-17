@@ -809,9 +809,6 @@
               "years_exp": "4",
               "password": "vwx123",
               "CountryId": 5,
-              "LocationId": 104, 
-              "CountryId": 6,
-              "LocationId": 111, 
               "description": "Experto en optimización de motores de búsqueda",
               "categorias": [
                 {
