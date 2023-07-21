@@ -104,49 +104,73 @@
     },
     {
       "title": "Arte en cerámica y alfarería",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRffFWJDvQVecYx-DAyYQZ0ZEKZyfHVz19lyg&usqp=CAU",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-FPjOW0ER3RTQVsQSWPu3klBjefAx6NCkA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg92Ds0VwVS1IxclqzX0mWdGrxUB61ciGAQ&usqp=CAU"
+      ],
       "content": "Realizo piezas de cerámica y alfarería únicas y personalizadas.",
       "profesionalId": 3
     },
     {
       "title": "Diseño y desarrollo web",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTosOuHKSFGiyJk8mItA_HWAQSWtCtshVI9KA&usqp=CAU",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVAw-rxTJ3iSarPi27Lw0H52OHUWc-hKeRxw&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XfNR05ubB0HBfBNg8g-3eIfY5eOC5Z3p3Q&usqp=CAU"
+      ],
       "content": "Ofrezco servicios de diseño y desarrollo de sitios web modernos y funcionales.",
       "profesionalId": 4
     },
     {
       "title": "Diseño de moda y escenarios",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGOt48qYndbLFjmrlylopjfA9bLOBLkLIKgQ&usqp=CAU",
+      "image":[
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg92Ds0VwVS1IxclqzX0mWdGrxUB61ciGAQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxosowAZ8xrfmOtp2p3zpGR7IYzSJUDuGUQ&usqp=CAU"
+      ],
       "content": "Creo diseños de moda y prendas de vestir únicas, así como escenarios para teatro, cine y televisión.",
       "profesionalId": 5
     },
     {
       "title": "Asistente personal remoto",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMPSy1tvMcvjNtFwYuLvcYBhGFmOcJkxJxig&usqp=CAU",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78-iR8muqPD5G2oylrSZOuezxPLHSXdpQRA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-FPjOW0ER3RTQVsQSWPu3klBjefAx6NCkA&usqp=CAU"
+      ],
       "content": "Ofrezco servicios como asistente personal remoto para realizar tareas administrativas y brindar apoyo en diversas áreas.",
       "profesionalId": 6
     },
     {
       "title": "Desarrollo web y configuración de redes",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDhNNoCw1pd-7jlAovEYweQ9_Y2TrElAFN4A&usqp=CAU",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkg92Ds0VwVS1IxclqzX0mWdGrxUB61ciGAQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsxosowAZ8xrfmOtp2p3zpGR7IYzSJUDuGUQ&usqp=CAU"
+      ],
       "content": "Me especializo en el desarrollo de sitios web y la configuración de redes de computadoras.",
       "profesionalId": 7
     },
     {
       "title": "Pasteles y decoración de eventos",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4L4cAHoxdCca3mwsHezTT2pnbxjg_3JO98A&usqp=CAU",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFpvTgkl0tfxJMmDIOV6pZfKSQed9Kvf-OdQ&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-7CCBDT3h5ned88QVv_I70Tkq0fX4MlEpfQ&usqp=CAU"
+      ],
       "content": "Elaboro deliciosos pasteles y postres, y también me encargo de la decoración de eventos y celebraciones.",
       "profesionalId": 8
     },
     {
       "title": "Desarrollo de software y seguridad",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ5XMuCmYRN0PZf4La1bxvHoccATQOV1mZ_A&usqp=CAU",
+      "image":[
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0XfNR05ubB0HBfBNg8g-3eIfY5eOC5Z3p3Q&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVAw-rxTJ3iSarPi27Lw0H52OHUWc-hKeRxw&usqp=CAU"
+      ],
       "content": "Ofrezco servicios de desarrollo de software y me especializo en la protección y seguridad de sistemas informáticos.",
       "profesionalId": 9
     },
     {
       "title": "Asesoramiento financiero y estrategias empresariales",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikTgeafmMshlgHXRPcDHkBkNe_JYtarCe1Q&usqp=CAU",
+      "image": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR78-iR8muqPD5G2oylrSZOuezxPLHSXdpQRA&usqp=CAU",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq-FPjOW0ER3RTQVsQSWPu3klBjefAx6NCkA&usqp=CAU"
+      ],
       "content": "Brindo asesoramiento financiero y ayudo a desarrollar estrategias empresariales efectivas.",
       "profesionalId": 10
    }
