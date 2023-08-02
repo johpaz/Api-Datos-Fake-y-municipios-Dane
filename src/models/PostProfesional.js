@@ -1,21 +1,22 @@
 const { DataTypes } = require('sequelize');
 
 module.exports = (sequelize) => {
-  sequelize.define("PostProfesional",{
-    id:{
-      type: DataTypes.UUID,
+  sequelize.define("PostProfesional", {
+   id:{
+      type: DataTypes.INTEGER,
       primaryKey: true,
-      defaultValue: DataTypes.UUIDV4,
+      autoIncrement: true,
     },
     title: {
       type: DataTypes.STRING,
       allowNull: false,
-      validate:{
-        len:[5,200] // El nombre del title debe tener mínimo 3 caracteres y máximo 200
+      validate: {
+        len: [5, 200] // El nombre del title debe tener mínimo 3 caracteres y máximo 200
       }
     },
+   
     image: {
-      type: DataTypes.STRING,
+      type: DataTypes.ARRAY(DataTypes.STRING),
       allowNull: false,
       validate: {
         isUrl: {
@@ -46,8 +47,20 @@ module.exports = (sequelize) => {
           }
         },
       },
+    },category: {
+      type: DataTypes.STRING,
+      allowNull: true,
     },
-  },{
+    ocupation: {
+      type: DataTypes.STRING,
+      allowNull: true,
+    },
+    softDelete: {
+      type: DataTypes.BOOLEAN,
+      allowNull: true,
+      defaultValue: false,
+    }
+  }, {
     timestamps: false,
   })
 };

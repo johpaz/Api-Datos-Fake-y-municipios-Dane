@@ -1,10 +1,11 @@
 const { Profesional } = require('../../db');
+const { Client } = require('../../db');
 
 const validateName = (name) => {
   if(!name) throw Error(`La propiedad name es obligatoria`);
   if(typeof name !== "string") throw Error(`El tipo de dato de name debe ser un string`);
 
-  const namevalidated = /^[a-zA-ZñÑ\s]+$/.test(name.trim());
+  const namevalidated = /^[a-zA-ZñÑáéíóúÁÉÍÓÚ\s]+$/.test(name.trim());
   const firstNameLastName = name.split(" ");
   
   if(name.trim() === "") throw Error(`El nombre no puede estar vacío`);
@@ -24,6 +25,14 @@ const validateEmail = (email) => {
   if(!emailRegexEnd.test(emailEnd)) throw Error(`El email no puede tener números o símbolos luego del dominio`)
 };
  
+const validatePassword = (password) => {
+  if (!password) throw Error(`La contraseña es obligatoria`);
+  const passwordRegex = /^(?=.*[a-zA-Z])(?=.*\d)\S{6,15}$/;
+  if (typeof password !== "string") throw Error(`El tipo de dato de la contraseña debe ser un string`);
+  if (password.trim() === "") throw Error(`La contraseña no puede estar vacía o compuesta por espacios`);
+  if (!passwordRegex.test(password)) throw Error(`La contraseña debe contener al menos una letra y un número, además de tener una longitud entre 6 y 15 caracteres`);
+};
+
 const validateImage = (image) => {
   if(!image) throw Error(`La propiedad image es obligatoria`);
   // // console.log(image)  //https://example.com/profile.jpg
@@ -31,10 +40,10 @@ const validateImage = (image) => {
   // // console.log(imageEnd) // com
   // const imageL = image.split(".")[1].split("/")
   // console.log(imageL) //profile
-  if(typeof image !== "string") throw Error(`El tipo de dato de image debe ser un string`);
-  const imageRegexUrl = /^(http(s?):\/\/)?[^\s/$.?#].[^\s]*\.(?:jpg|jpeg|gif|png)$/i
-  if(image.trim() === "") throw Error(`La imagen no puede ser un string vacío`)
-  if(!imageRegexUrl.test(image)) throw Error (`La imagen debe ser una url y tener formato de imagen: .jpg|.jeg|.png`); 
+  // if(typeof image !== "string") throw Error(`El tipo de dato de image debe ser un string`);
+  // const imageRegexUrl = /^(http(s?):\/\/)?[^\s/$.?#].[^\s]*\.(?:jpg|jpeg|gif|png)$/i
+  // if(image.trim() === "") throw Error(`La imagen no puede ser un string vacío`)
+  // if(!imageRegexUrl.test(image)) throw Error (`La imagen debe ser una url y tener formato de imagen: .jpg|.jeg|.png`); 
 };
 
 const validateGenre = (genre) => {
@@ -50,12 +59,6 @@ const validateYearsExp = (years_exp) => {
   if(typeof years_exp !== "string") throw Error (`El tipo de dato de los años de experiencia debe ser un string`);
   if(years_exp > 85) throw Error(`No es probable que haya trabajado más de 85 años en un trabajo`);
   if(years_exp.length > 2) throw Error(`Los años de experiencia no puede ser centenares`);
-};
-
-const validateDescription = (description) => {
-  if(!description) throw Error(`La propiedad description es obligatoria`);
-  if(typeof description !== "string") throw Error(`El tipo de dato de la descripción debe ser un string`);
-  if(description.length > 250) throw Error(`La descripción no puede tener más de 250 caracteres`);
 };
 
 const validateCategories = (categories) => {
@@ -79,31 +82,60 @@ const validatePhone = (phone) => {
   if(!/^\d+$/.test(phone)) throw Error(`La propiedad phone solo debe contener números`)
 };
 
-const validateUbication = (ubication) => {
-  if(!ubication) throw Error('La propiedad ubication es obligatoria');
+// const validateUbication = (ubication) => {
+//   if(!ubication) throw Error('La propiedad ubication es obligatoria');
+// };
+
+const validateCountry = (CountryId) => {
+  // if(!CountryId ||CountryId === undefined || CountryId === null) throw Error(`Debe proporcionar el id del país donde se ubica el profesional`);
+  // if(!Number(CountryId)) throw Error(`El id del país debe ser númerico`);
+  // if(CountryId < 1 && CountryId > 20) throw Error(`Debe proporcionar un id del país entre los existentes - 1 al 20`);
 };
+
+// const validateLocation = (CountryId,LocationId) => {
+//   if(!LocationId || LocationId === undefined || LocationId === null) throw Error(`Debe proporcionar el id de la ciudad en la que se ubica el profesional`);
+//   if(!Number(LocationId)) throw Error(`El id de la ciudad debe ser númerico`);
+//   if(CountryId === 1 && (LocationId > 0 && LocationId < 24) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 2 && (LocationId > 23 && LocationId < 33) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 3 && (LocationId > 32 && LocationId < 60) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 4 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 5 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 6 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 7 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 8 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 9 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 10 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+//   if(CountryId === 11 && (LocationId > 59 && LocationId < 76) ) throw Error(`Según el país, debe proporcionar el id de la localidad correspondiente`);
+  
+
+// };
 
 module.exports = async (req,res,next) => {
 
-  const { name, email, image, genre, years_exp, description ,categories, ocupations, phone, ubication } = req.body;
+  const { name, email, password,image, genre, years_exp, categories, ocupations, phone, ubication, CountryId, LocationId } = req.body;
 
   try {
-    console.log(name)
-    const matchEmail = await Profesional.findOne({where:{email: email}});
-    if(matchEmail) throw Error(`El correo: ${email} ya está asociado con un profesional`);
+    validateEmail(email);
+    // console.log(image); // https://firebasestorage.googleapis.com/v0/b/react-imagenes-profinder.appspot.com/o/27e055e8-883e-4ce3-9d53-08128628fe13.jpg?alt=media&token=978040e0-44cb-44a7-ad58-dcec5a95c0cd
+    const clientEmail = await Client.findOne({where:{email:email}});
+    if(clientEmail) throw Error(`El correo: ${email} está asociado a un cliente`);
+    
+    const profesionalEmail = await Profesional.findOne({where:{email: email}});
+    if(profesionalEmail) throw Error(`El correo: ${email} ya está asociado con un profesional`);
+
 
     validateName(name);
-    validateEmail(email);
+    validatePassword(password);
     validateImage(image);
     validateGenre(genre);
     validateYearsExp(years_exp);
-    validateDescription(description);
     validateCategories(categories);
     validateOcupations(ocupations);
     validatePhone(phone);
-    validateUbication(ubication);
+    // validateUbication(ubication);
+    // validateCountry(CountryId);
     next();
   } catch (error) {
     return res.status(400).json({error: error.message});
   };
-};
+};// 4ef29225941cb9bb0ea93f9cae9b3bcb614f46f8
