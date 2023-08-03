@@ -1,101 +1,101 @@
 [
   {
-    "NOMBRE_DEPTO": "AMAZONAS"
+    "NOMBRE": "AMAZONAS"
   },
   {
-    "NOMBRE_DEPTO": "ANTIOQUIA"
+    "NOMBRE": "ANTIOQUIA"
   },
   {
-    "NOMBRE_DEPTO": "ARAUCA"
+    "NOMBRE": "ARAUCA"
   },
   {
-    "NOMBRE_DEPTO": "ARCHIPIELAGO DE SAN ANDRES"
+    "NOMBRE": "ARCHIPIELAGO DE SAN ANDRES"
   },
   {
-    "NOMBRE_DEPTO": "ATLÁNTICO"
+    "NOMBRE": "ATLÁNTICO"
   },
   {
-    "NOMBRE_DEPTO": "BOGOTÁ D.C."
+    "NOMBRE": "BOGOTÁ D.C."
   },
   {
-    "NOMBRE_DEPTO": "BOLIVAR"
+    "NOMBRE": "BOLIVAR"
   },
   {
-    "NOMBRE_DEPTO": "BOYACÁ"
+    "NOMBRE": "BOYACÁ"
   },
   {
-    "NOMBRE_DEPTO": "CALDAS"
+    "NOMBRE": "CALDAS"
   },
   {
-    "NOMBRE_DEPTO": "CAQUETA"
+    "NOMBRE": "CAQUETA"
   },
   {
-    "NOMBRE_DEPTO": "CASANARE"
+    "NOMBRE": "CASANARE"
   },
   {
-    "NOMBRE_DEPTO": "CAUCA"
+    "NOMBRE": "CAUCA"
   },
   {
-    "NOMBRE_DEPTO": "CESAR"
+    "NOMBRE": "CESAR"
   },
   {
-    "NOMBRE_DEPTO": "CHOCO"
+    "NOMBRE": "CHOCO"
   },
   {
-    "NOMBRE_DEPTO": "CORDOBA"
+    "NOMBRE": "CORDOBA"
   },
   {
-    "NOMBRE_DEPTO": "CUNDINAMARCA"
+    "NOMBRE": "CUNDINAMARCA"
   },
   {
-    "NOMBRE_DEPTO": "GUAINIA"
+    "NOMBRE": "GUAINIA"
   },
   {
-    "NOMBRE_DEPTO": "GUAVIARE"
+    "NOMBRE": "GUAVIARE"
   },
   {
-    "NOMBRE_DEPTO": "HUILA"
+    "NOMBRE": "HUILA"
   },
   {
-    "NOMBRE_DEPTO": "LA GUAJIRA"
+    "NOMBRE": "LA GUAJIRA"
   },
   {
-    "NOMBRE_DEPTO": "MAGDALENA"
+    "NOMBRE": "MAGDALENA"
   },
   {
-    "NOMBRE_DEPTO": "META"
+    "NOMBRE": "META"
   },
   {
-    "NOMBRE_DEPTO": "NARIÑO"
+    "NOMBRE": "NARIÑO"
   },
   {
-    "NOMBRE_DEPTO": "NORTE DE SANTANDER"
+    "NOMBRE": "NORTE DE SANTANDER"
   },
   {
-    "NOMBRE_DEPTO": "PUTUMAYO"
+    "NOMBRE": "PUTUMAYO"
   },
   {
-    "NOMBRE_DEPTO": "QUINDIO"
+    "NOMBRE": "QUINDIO"
   },
   {
-    "NOMBRE_DEPTO": "RISARALDA"
+    "NOMBRE": "RISARALDA"
   },
   {
-    "NOMBRE_DEPTO": "SANTANDER"
+    "NOMBRE": "SANTANDER"
   },
   {
-    "NOMBRE_DEPTO": "SUCRE"
+    "NOMBRE": "SUCRE"
   },
   {
-    "NOMBRE_DEPTO": "TOLIMA"
+    "NOMBRE": "TOLIMA"
   },
   {
-    "NOMBRE_DEPTO": "VALLE DEL CAUCA"
+    "NOMBRE": "VALLE DEL CAUCA"
   },
   {
-    "NOMBRE_DEPTO": "VAUPES"
+    "NOMBRE": "VAUPES"
   },
   {
-    "NOMBRE_DEPTO": "VICHADA"
+    "NOMBRE": "VICHADA"
   }
 ]

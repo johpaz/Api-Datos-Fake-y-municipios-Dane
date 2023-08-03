@@ -2,7 +2,7 @@ const fs = require('fs');
 const xlsx = require('xlsx');
 
 // Ruta del archivo Excel
-const excelFilePath = './subregiones.xlsx';
+const excelFilePath = './municipios.xlsx';
 
 // Ruta donde se guardará el archivo JSON
 const jsonFilePath = './municipios.json';
