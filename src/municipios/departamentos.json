@@ -1,101 +1,134 @@
 [
   {
-    "NOMBRE": "AMAZONAS"
+    "NOMBRE": "AMAZONAS",
+    "CODIGO_DANE": "01"
   },
   {
-    "NOMBRE": "ANTIOQUIA"
+    "NOMBRE": "ANTIOQUIA",
+    "CODIGO_DANE": "02"
   },
   {
-    "NOMBRE": "ARAUCA"
+    "NOMBRE": "ARAUCA",
+    "CODIGO_DANE": "03"
   },
   {
-    "NOMBRE": "ARCHIPIELAGO DE SAN ANDRES"
+    "NOMBRE": "ARCHIPIÉLAGO DE SAN ANDRÉS, PROVIDENCIA Y SANTA CATALINA",
+    "CODIGO_DANE": "04"
   },
   {
-    "NOMBRE": "ATLÁNTICO"
+    "NOMBRE": "ATLÁNTICO",
+    "CODIGO_DANE": "05"
   },
   {
-    "NOMBRE": "BOGOTÁ D.C."
+    "NOMBRE": "BOGOTÁ D.C.",
+    "CODIGO_DANE": "11"
   },
   {
-    "NOMBRE": "BOLIVAR"
+    "NOMBRE": "BOLÍVAR",
+    "CODIGO_DANE": "13"
   },
   {
-    "NOMBRE": "BOYACA"
+    "NOMBRE": "BOYACÁ",
+    "CODIGO_DANE": "15"
   },
   {
-    "NOMBRE": "CALDAS"
+    "NOMBRE": "CALDAS",
+    "CODIGO_DANE": "17"
   },
   {
-    "NOMBRE": "CAQUETA"
+    "NOMBRE": "CAQUETÁ",
+    "CODIGO_DANE": "18"
   },
   {
-    "NOMBRE": "CASANARE"
+    "NOMBRE": "CASANARE",
+    "CODIGO_DANE": "85"
   },
   {
-    "NOMBRE": "CAUCA"
+    "NOMBRE": "CAUCA",
+    "CODIGO_DANE": "19"
   },
   {
-    "NOMBRE": "CESAR"
+    "NOMBRE": "CESAR",
+    "CODIGO_DANE": "20"
   },
   {
-    "NOMBRE": "CHOCO"
+    "NOMBRE": "CHOCÓ",
+    "CODIGO_DANE": "27"
   },
   {
-    "NOMBRE": "CORDOBA"
+    "NOMBRE": "CÓRDOBA",
+    "CODIGO_DANE": "23"
   },
   {
-    "NOMBRE": "CUNDINAMARCA"
+    "NOMBRE": "CUNDINAMARCA",
+    "CODIGO_DANE": "25"
   },
   {
-    "NOMBRE": "GUAINIA"
+    "NOMBRE": "GUAINÍA",
+    "CODIGO_DANE": "94"
   },
   {
-    "NOMBRE": "GUAVIARE"
+    "NOMBRE": "GUAVIARE",
+    "CODIGO_DANE": "95"
   },
   {
-    "NOMBRE": "HUILA"
+    "NOMBRE": "HUILA",
+    "CODIGO_DANE": "41"
   },
   {
-    "NOMBRE": "LA GUAJIRA"
+    "NOMBRE": "LA GUAJIRA",
+    "CODIGO_DANE": "44"
   },
   {
-    "NOMBRE": "MAGDALENA"
+    "NOMBRE": "MAGDALENA",
+    "CODIGO_DANE": "47"
   },
   {
-    "NOMBRE": "META"
+    "NOMBRE": "META",
+    "CODIGO_DANE": "50"
   },
   {
-    "NOMBRE": "NARIÑO"
+    "NOMBRE": "NARIÑO",
+    "CODIGO_DANE": "52"
   },
   {
-    "NOMBRE": "NORTE DE SANTANDER"
+    "NOMBRE": "NORTE DE SANTANDER",
+    "CODIGO_DANE": "54"
   },
   {
-    "NOMBRE": "PUTUMAYO"
+    "NOMBRE": "PUTUMAYO",
+    "CODIGO_DANE": "86"
   },
   {
-    "NOMBRE": "QUINDIO"
+    "NOMBRE": "QUINDÍO",
+    "CODIGO_DANE": "63"
   },
   {
-    "NOMBRE": "RISARALDA"
+    "NOMBRE": "RISARALDA",
+    "CODIGO_DANE": "66"
   },
   {
-    "NOMBRE": "SANTANDER"
+    "NOMBRE": "SANTANDER",
+    "CODIGO_DANE": "68"
   },
   {
-    "NOMBRE": "SUCRE"
+    "NOMBRE": "SUCRE",
+    "CODIGO_DANE": "70"
   },
   {
-    "NOMBRE": "TOLIMA"
+    "NOMBRE": "TOLIMA",
+    "CODIGO_DANE": "73"
   },
   {
-    "NOMBRE": "VALLE DEL CAUCA"
+    "NOMBRE": "VALLE DEL CAUCA",
+    "CODIGO_DANE": "76"
   },
   {
-    "NOMBRE": "VAUPES"
+    "NOMBRE": "VAUPÉS",
+    "CODIGO_DANE": "97"
   },
   {
-    "NOMBRE": "VICHADA"
+    "NOMBRE": "VICHADA",
+    "CODIGO_DANE": "99"
   }
 ]
