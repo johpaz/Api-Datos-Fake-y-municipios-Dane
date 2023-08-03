@@ -1,0 +1,51 @@
+[
+    {
+      "nombre": "Administrador",
+      "descripcion": "Perfil con acceso completo al sistema"
+    },
+    {
+      "nombre": "UsuarioReportes",
+      "descripcion": "Perfil con acceso limitado al sistema"
+    },
+    {
+      "nombre": "Supervisor",
+      "descripcion": "Perfil con permisos para supervisar actividades"
+    },
+    {
+      "nombre": "Analista",
+      "descripcion": "Perfil con permisos para analizar datos y generar informes"
+    },
+     {
+        "nombre": "Cordinador",
+        "descripcion": "Perfil con acceso a tareas de coordinacion operativa"
+      },
+      {
+        "nombre": "Montacarguista",
+        "descripcion": "Perfil con acceso a tareas para almacenamiento y despacho de pallets y  su reaprovisionamiento"
+      },
+    {
+      "nombre": "Operador",
+      "descripcion": "Perfil con permisos para realizar operaciones y tareas específicas"
+    },
+    {
+      "nombre": "Gerente",
+      "descripcion": "Perfil con permisos para tomar decisiones y gestionar recursos"
+    },
+    {
+      "nombre": "Auditor",
+      "descripcion": "Perfil con permisos para realizar auditorías y evaluaciones"
+    },
+    {
+      "nombre": "Desarrollador",
+      "descripcion": "Perfil con permisos para programar y desarrollar mejoras a la aplicacion"
+    },
+    {
+      "nombre": "Soporte Técnico",
+      "descripcion": "Perfil con permisos para brindar asistencia técnica y soporte a usuarios"
+    },
+    {
+        "nombre": "Directivo",
+        "descripcion": "Perfil con acceso a reportes para toma de desciciones"
+      }
+  ]
+  
